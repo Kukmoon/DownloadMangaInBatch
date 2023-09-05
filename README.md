@@ -9,7 +9,7 @@ Download every page of a manga in batch and then save all pages as a zip package
 1. Use it as a command in PowerShell or Windows Terminal Window:
 
 ```
-DownloadMangaInBatch.ps1 \[<The URI of the last page of the manga, e.g. https://hnt.javmobile.mobi/000/022/22751/34.jpg>\]
+DownloadMangaInBatch.ps1 [<The URI of the last page of the manga, e.g. https://hnt.javmobile.mobi/000/022/22751/34.jpg>]
 ```
 
 2. Double click `DownloadMangaInBatch.ps1`, and type or past the URI of the last page of the manga.
